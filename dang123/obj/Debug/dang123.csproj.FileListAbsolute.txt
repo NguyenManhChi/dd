@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\dang123\dang123\bin\Debug\dang123.exe.config
+C:\Users\DELL\source\repos\dang123\dang123\bin\Debug\dang123.exe
+C:\Users\DELL\source\repos\dang123\dang123\bin\Debug\dang123.pdb
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.Form1.resources
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.Properties.Resources.resources
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.exe
+C:\Users\DELL\source\repos\dang123\dang123\obj\Debug\dang123.pdb
